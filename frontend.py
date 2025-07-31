@@ -48,7 +48,6 @@ def main():
     root.config(bg='#c1c1c1')
 
     #Run the inital
-
     inital()
 
     #Interactive parts
